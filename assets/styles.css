@@ -1,0 +1,12 @@
+.panel-header {
+    color: white;
+    background-color: #A75037;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.alert-danger {
+    border-left: 3px solid #d40932;
+}
